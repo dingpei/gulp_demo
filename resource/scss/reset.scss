@@ -1,0 +1,14 @@
+html{
+	margin:0;
+	padding:0;
+}
+body{
+	font-size:12px;
+	font-family:impaact;
+	color:#f99;
+	@extend html;
+}
+ul{
+	list-style-type:none;
+	@extend html;
+}
